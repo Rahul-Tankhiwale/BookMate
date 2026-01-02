@@ -15,10 +15,10 @@ BookMate is a full-stack web application that allows users to can exchange book 
 
 ## Tech Stack
 
-- **Frontend:** React.js, HTML, CSS, Tailwind (or your CSS framework)
+- **Frontend:** React.js, HTML, CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (or your database)
-- **Authentication:** JWT / Passport.js
+- **Database:** MongoDB 
+- **Authentication:** JWT token
 
 
 ---
